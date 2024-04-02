@@ -1,0 +1,69 @@
+C:\Users\Harshit\Music\GITHUB\Kamin\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Harshit\Music\GITHUB\Kamin\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Harshit\Music\GITHUB\Kamin\ConsoleApp1\ConsoleApp1\obj\Debug\kaminConsoleapplication.csproj.CoreCompileInputs.cache
+C:\Users\Harshit\Music\GITHUB\Kamin\ConsoleApp1\ConsoleApp1\obj\Debug\kaminConsoleapplication.csproj.CopyComplete
+C:\Users\Harshit\Music\GITHUB\Kamin\ConsoleApp1\ConsoleApp1\bin\Debug\Kaminconsoleapp.exe.config
+C:\Users\Harshit\Music\GITHUB\Kamin\ConsoleApp1\ConsoleApp1\bin\Debug\Kaminconsoleapp.exe
+C:\Users\Harshit\Music\GITHUB\Kamin\ConsoleApp1\ConsoleApp1\bin\Debug\Kaminconsoleapp.pdb
+C:\Users\Harshit\Music\GITHUB\Kamin\ConsoleApp1\ConsoleApp1\obj\Debug\Kaminconsoleapp.exe
+C:\Users\Harshit\Music\GITHUB\Kamin\ConsoleApp1\ConsoleApp1\obj\Debug\Kaminconsoleapp.pdb
+C:\Users\Harshit\Music\GITHUB\Kamin\ConsoleApp1\ConsoleApp1\obj\Debug\kaminConsoleapplication.csproj.AssemblyReference.cache
+C:\Users\Harshit\Music\GITHUB\Kamin\ConsoleApp2\ConsoleApp1\bin\Debug\Kaminconsoleapp.exe.config
+C:\Users\Harshit\Music\GITHUB\Kamin\ConsoleApp2\ConsoleApp1\bin\Debug\Kaminconsoleapp.exe
+C:\Users\Harshit\Music\GITHUB\Kamin\ConsoleApp2\ConsoleApp1\bin\Debug\Kaminconsoleapp.pdb
+C:\Users\Harshit\Music\GITHUB\Kamin\ConsoleApp2\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Harshit\Music\GITHUB\Kamin\ConsoleApp2\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Harshit\Music\GITHUB\Kamin\ConsoleApp2\ConsoleApp1\obj\Debug\kaminConsoleapplication.csproj.CoreCompileInputs.cache
+C:\Users\Harshit\Music\GITHUB\Kamin\ConsoleApp2\ConsoleApp1\obj\Debug\kaminConsoleapplication.csproj.CopyComplete
+C:\Users\Harshit\Music\GITHUB\Kamin\ConsoleApp2\ConsoleApp1\obj\Debug\Kaminconsoleapp.exe
+C:\Users\Harshit\Music\GITHUB\Kamin\ConsoleApp2\ConsoleApp1\obj\Debug\Kaminconsoleapp.pdb
+C:\Users\Harshit\Music\GITHUB\Kamin\ConsoleApp3\ConsoleApp1\bin\Debug\KaminconsoleappCSVtoDatabase.exe.config
+C:\Users\Harshit\Music\GITHUB\Kamin\ConsoleApp3\ConsoleApp1\bin\Debug\KaminconsoleappCSVtoDatabase.exe
+C:\Users\Harshit\Music\GITHUB\Kamin\ConsoleApp3\ConsoleApp1\bin\Debug\KaminconsoleappCSVtoDatabase.pdb
+C:\Users\Harshit\Music\GITHUB\Kamin\ConsoleApp3\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Harshit\Music\GITHUB\Kamin\ConsoleApp3\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Harshit\Music\GITHUB\Kamin\ConsoleApp3\ConsoleApp1\obj\Debug\kaminConsoleapplication.csproj.CoreCompileInputs.cache
+C:\Users\Harshit\Music\GITHUB\Kamin\ConsoleApp3\ConsoleApp1\obj\Debug\kaminConsoleapplication.csproj.CopyComplete
+C:\Users\Harshit\Music\GITHUB\Kamin\ConsoleApp3\ConsoleApp1\obj\Debug\KaminconsoleappCSVtoDatabase.exe
+C:\Users\Harshit\Music\GITHUB\Kamin\ConsoleApp3\ConsoleApp1\obj\Debug\KaminconsoleappCSVtoDatabase.pdb
+C:\Users\Harshit\Music\GITHUB\Kamin\ConsoleApp3\ConsoleApp1\obj\Debug\kaminConsoleapplication.csproj.AssemblyReference.cache
+C:\Users\Harshit\Music\GITHUB\Kamin\ConsoleApp4\ConsoleApp1\bin\Debug\KaminconsoleappCSVtoDatabase.exe.config
+C:\Users\Harshit\Music\GITHUB\Kamin\ConsoleApp4\ConsoleApp1\bin\Debug\KaminconsoleappCSVtoDatabase.exe
+C:\Users\Harshit\Music\GITHUB\Kamin\ConsoleApp4\ConsoleApp1\bin\Debug\KaminconsoleappCSVtoDatabase.pdb
+C:\Users\Harshit\Music\GITHUB\Kamin\ConsoleApp4\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Harshit\Music\GITHUB\Kamin\ConsoleApp4\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Harshit\Music\GITHUB\Kamin\ConsoleApp4\ConsoleApp1\obj\Debug\kaminConsoleapplication.csproj.AssemblyReference.cache
+C:\Users\Harshit\Music\GITHUB\Kamin\ConsoleApp4\ConsoleApp1\obj\Debug\kaminConsoleapplication.csproj.CoreCompileInputs.cache
+C:\Users\Harshit\Music\GITHUB\Kamin\ConsoleApp4\ConsoleApp1\obj\Debug\kaminConsoleapplication.csproj.CopyComplete
+C:\Users\Harshit\Music\GITHUB\Kamin\ConsoleApp4\ConsoleApp1\obj\Debug\KaminconsoleappCSVtoDatabase.exe
+C:\Users\Harshit\Music\GITHUB\Kamin\ConsoleApp4\ConsoleApp1\obj\Debug\KaminconsoleappCSVtoDatabase.pdb
+C:\Users\Harshit\Music\GITHUB\Kamin_consoleapplication\Final ConsoleApp4\ConsoleApp1\bin\Debug\KaminconsoleappCSVtoDatabase.exe.config
+C:\Users\Harshit\Music\GITHUB\Kamin_consoleapplication\Final ConsoleApp4\ConsoleApp1\bin\Debug\KaminconsoleappCSVtoDatabase.exe
+C:\Users\Harshit\Music\GITHUB\Kamin_consoleapplication\Final ConsoleApp4\ConsoleApp1\bin\Debug\KaminconsoleappCSVtoDatabase.pdb
+C:\Users\Harshit\Music\GITHUB\Kamin_consoleapplication\Final ConsoleApp4\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Harshit\Music\GITHUB\Kamin_consoleapplication\Final ConsoleApp4\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Harshit\Music\GITHUB\Kamin_consoleapplication\Final ConsoleApp4\ConsoleApp1\obj\Debug\kaminConsoleapplication.csproj.CoreCompileInputs.cache
+C:\Users\Harshit\Music\GITHUB\Kamin_consoleapplication\Final ConsoleApp4\ConsoleApp1\obj\Debug\kaminConsoleapplication.csproj.CopyComplete
+C:\Users\Harshit\Music\GITHUB\Kamin_consoleapplication\Final ConsoleApp4\ConsoleApp1\obj\Debug\KaminconsoleappCSVtoDatabase.exe
+C:\Users\Harshit\Music\GITHUB\Kamin_consoleapplication\Final ConsoleApp4\ConsoleApp1\obj\Debug\KaminconsoleappCSVtoDatabase.pdb
+C:\Users\Harshit\Music\GITHUB\Kamin_consoleapplication\Final ConsoleApp4\ConsoleApp1\obj\Debug\kaminConsoleapplication.csproj.AssemblyReference.cache
+C:\Users\Harshit\Music\GITHUB\Kamin_consoleapplication\Final ConsoleApp5\ConsoleApp1\bin\Debug\KaminconsoleappCSVtoDatabase.exe.config
+C:\Users\Harshit\Music\GITHUB\Kamin_consoleapplication\Final ConsoleApp5\ConsoleApp1\bin\Debug\KaminconsoleappCSVtoDatabase.exe
+C:\Users\Harshit\Music\GITHUB\Kamin_consoleapplication\Final ConsoleApp5\ConsoleApp1\bin\Debug\KaminconsoleappCSVtoDatabase.pdb
+C:\Users\Harshit\Music\GITHUB\Kamin_consoleapplication\Final ConsoleApp5\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Harshit\Music\GITHUB\Kamin_consoleapplication\Final ConsoleApp5\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Harshit\Music\GITHUB\Kamin_consoleapplication\Final ConsoleApp5\ConsoleApp1\obj\Debug\kaminConsoleapplication.csproj.AssemblyReference.cache
+C:\Users\Harshit\Music\GITHUB\Kamin_consoleapplication\Final ConsoleApp5\ConsoleApp1\obj\Debug\kaminConsoleapplication.csproj.CoreCompileInputs.cache
+C:\Users\Harshit\Music\GITHUB\Kamin_consoleapplication\Final ConsoleApp5\ConsoleApp1\obj\Debug\kaminConsoleapplication.csproj.CopyComplete
+C:\Users\Harshit\Music\GITHUB\Kamin_consoleapplication\Final ConsoleApp5\ConsoleApp1\obj\Debug\KaminconsoleappCSVtoDatabase.exe
+C:\Users\Harshit\Music\GITHUB\Kamin_consoleapplication\Final ConsoleApp5\ConsoleApp1\obj\Debug\KaminconsoleappCSVtoDatabase.pdb
+C:\Users\Harshit\Music\GITHUB\Kamin_consoleapplication\Final ConsoleApp to upload base64 server\ConsoleApp1\bin\Debug\KaminconsoleappCSVtoDatabase.exe.config
+C:\Users\Harshit\Music\GITHUB\Kamin_consoleapplication\Final ConsoleApp to upload base64 server\ConsoleApp1\bin\Debug\KaminconsoleappCSVtoDatabase.exe
+C:\Users\Harshit\Music\GITHUB\Kamin_consoleapplication\Final ConsoleApp to upload base64 server\ConsoleApp1\bin\Debug\KaminconsoleappCSVtoDatabase.pdb
+C:\Users\Harshit\Music\GITHUB\Kamin_consoleapplication\Final ConsoleApp to upload base64 server\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Harshit\Music\GITHUB\Kamin_consoleapplication\Final ConsoleApp to upload base64 server\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Harshit\Music\GITHUB\Kamin_consoleapplication\Final ConsoleApp to upload base64 server\ConsoleApp1\obj\Debug\kaminConsoleapplication.csproj.AssemblyReference.cache
+C:\Users\Harshit\Music\GITHUB\Kamin_consoleapplication\Final ConsoleApp to upload base64 server\ConsoleApp1\obj\Debug\kaminConsoleapplication.csproj.CoreCompileInputs.cache
+C:\Users\Harshit\Music\GITHUB\Kamin_consoleapplication\Final ConsoleApp to upload base64 server\ConsoleApp1\obj\Debug\kaminConsoleapplication.csproj.CopyComplete
+C:\Users\Harshit\Music\GITHUB\Kamin_consoleapplication\Final ConsoleApp to upload base64 server\ConsoleApp1\obj\Debug\KaminconsoleappCSVtoDatabase.exe
+C:\Users\Harshit\Music\GITHUB\Kamin_consoleapplication\Final ConsoleApp to upload base64 server\ConsoleApp1\obj\Debug\KaminconsoleappCSVtoDatabase.pdb
